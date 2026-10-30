@@ -1,0 +1,11 @@
+[package]
+name = "beta"
+version = "0.1.0"
+edition = "2024"
+
+description = "β software factory"
+license = "Apache-2.0"
+repository = "https://github.com/kaspar030/beta"
+homepage = "https://github.com/kaspar030/beta"
+
+[dependencies]
